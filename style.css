@@ -1,0 +1,17 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    margin: auto;
+    padding: 20px;
+    background-color: aliceblue;
+    color: black;
+}
+header{
+    background-color: floralwhite;
+    color: black;
+    padding: 50px;
+    text-align: inherit;
+}
+main{
+    padding: 35px;
+}
